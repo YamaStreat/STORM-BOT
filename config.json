@@ -1,0 +1,8 @@
+{
+  "guildId": "ID_DU_SERVEUR",
+  "welcomeChannelId": "ID_SALON_BIENVENUE",
+  "autoRoleId": "ID_ROLE_AUTOMATIQUE",
+  "ticketCategoryId": "ID_CATEGORIE_TICKETS",
+  "ticketStaffRoleId": "ID_ROLE_STAFF_TICKETS",
+  "logsChannelId": "ID_SALON_LOGS"
+}

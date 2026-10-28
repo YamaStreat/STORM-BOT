@@ -1,0 +1,14 @@
+{
+  "name": "storm-pvp-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord ST\u00d8RM // PVP - Bienvenue, tickets, staff, autorole",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
