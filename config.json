@@ -1,8 +1,8 @@
 {
-  "guildId": "ID_DU_SERVEUR",
-  "welcomeChannelId": "ID_SALON_BIENVENUE",
-  "autoRoleId": "ID_ROLE_AUTOMATIQUE",
-  "ticketCategoryId": "ID_CATEGORIE_TICKETS",
-  "ticketStaffRoleId": "ID_ROLE_STAFF_TICKETS",
-  "logsChannelId": "ID_SALON_LOGS"
+  "guildId": "1563898420266016768",
+  "welcomeChannelId": "1564691566722031767",
+  "autoRoleId": "1564827474099966103",
+  "ticketCategoryId": "1564693430091907162",
+  "ticketStaffRoleId": "1565077728208752810", "1565077897088344247", "1565077639918526484",
+  "logsChannelId": "1565120171822022727"
 }
